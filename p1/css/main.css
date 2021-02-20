@@ -16,7 +16,9 @@ h3 {
 }
 a{
   color: white;
+  text-decoration: none;
 }
 a:hover{
   color: #8E9CAA;
+  text-decoration: none;
 }
