@@ -1,0 +1,46 @@
+body{
+  background-color: #A8B2B9;
+  color: #5C656B;
+  text-align: left;
+  margin-left: 150px;
+  margin-right:150px;
+  margin-top:50px;
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+}
+.Contrast {
+  display: inline-block;
+  color: #53606A;
+  font-family: avenir;
+  font-weight: heavy;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+.seven{
+  color: #53606A;
+  font-family: avenir;
+  font-weight: heavy;
+  border: 3px;
+  border-style: solid;
+  text-align: center;
+}
+h4{
+  color: #53606A;
+  font-family: avenir;
+  font-style: italic;
+}
+p{
+  font-family: avenir;
+}
+.booklet{
+  color: white;
+}
+li{
+  color: white;
+  font-family: avenir;
+  font-weight: light;
+  font-style: italic;
+}
