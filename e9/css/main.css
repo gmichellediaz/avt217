@@ -71,18 +71,101 @@
   transform: rotate(2000deg);
 }
 .shape31 {
-  width: 0;
-  height: 0;
-  border-left: 400px solid transparent;
-  border-right: 400px solid transparent;
-  border-bottom: 800px solid blue;
+  width: 200px;
+  height: 10px;
+  background: #188FA7;
   float: left;
+  transform: rotate(-35deg);
 }
 .shape32 {
-      width: 0;
-      height: 0;
-      border-top: 400px solid transparent;
-      border-right: 800px solid red;
-      border-bottom: 400px solid transparent;
-      float: right;
-    }
+  width: 150px;
+  height: 150px;
+  background: #769FB6;
+  float: left;
+  border-radius: 50%;
+  margin: -20px;
+}
+.shape33 {
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid #9DBBAE;
+  float: left;
+  opacity: .8;
+  margin: -20px;
+}
+.shape34 {
+  width: 300px;
+  height: 150px;
+  background: #D5D6AA;
+  float: left;
+  margin: -30px;
+  opacity: .7;
+  transform: rotate(-7deg);
+}
+.shape41 {
+  width: 200px;
+  height: 100px;
+  background: #F15BB5;
+  border: 10px solid #FEE440;
+  border-radius: 100px / 50px;
+  float: left;
+  opacity: .9;
+  transform: scaleY(3);
+}
+.shape42 {
+  width: 300px;
+  height: 150px;
+  background: #00BBF9;
+  border: 20px solid #00F5D4;
+  border-radius: 100px / 50px;
+  float: left;
+  margin: -10px
+  transform: skewY(20deg);
+}
+.shape51 {
+  width: 400px;
+  height: 20px;
+  background: #FD151B;
+  transform: rotate(50deg);
+  opacity: .5;
+  float: left;
+  margin: -10px;
+}
+.shape52 {
+  width: 500px;
+  height: 50px;
+  background: #FFB30F;
+  transform: rotate(50deg);
+  opacity: .5;
+  float:left;
+  margin: -20px;
+  margin-bottom: 20px;
+  transition: transform 5s;
+}
+.shape52:hover {
+  transform: rotate(-2000deg);
+}
+.shape53 {
+  width: 200px;
+  height: 10px;
+  background: #437F97;
+  float: left;
+  transform: rotate(-50deg);
+  margin: -100px;
+  margin-top: 10px;
+  transition: transform 5s;
+}
+.shape53:hover {
+  transform: rotate(2000deg);
+}
+.shape54 {
+  width: 200px;
+  height: 10px;
+  background: #01295F;
+  float: left;
+  margin: -50px;
+  margin-left: 10px;
+  transform: rotate(-50deg);
+}
