@@ -1,0 +1,99 @@
+body {
+  background-color: #19647E;
+}
+.black {
+  width: 50px;
+  height: 50px;
+  background-color: #1F271B;
+  float: left;
+}
+.red {
+  width: 50px;
+  height: 50px;
+  background-color: #28AFB0;
+  float: left;
+}
+.board {
+  width: 400px;
+  display: flow-root;
+  margin: 100px auto;
+}
+.columngrid {
+  width: 600px;
+  display: flow-root;
+  margin: 50px auto;
+}
+.header {
+  width: 590px;
+  height: 80px;
+  margin: 0 0 10px 0;
+  background-color: #28AFB0;
+  float: left;
+}
+.header2 {
+  width: 590px;
+  height: 20px;
+  margin: 0 0 10px 0;
+  background-color: #F4D35E;
+  float: left;
+}
+.col1 {
+  width: 190px;
+  height: 500px;
+  margin: 0 10px 10px 0;
+  background-color: #EE964B;
+  float: left;
+}
+.col2 {
+  width: 190px;
+  height: 500px;
+  margin: 0 10px 10px 0;
+  background-color: #EE964B;
+  float: left;
+}
+.col3 {
+  width: 190px;
+  height: 500px;
+  margin: 0 10px 10px 0;
+  background-color: #EE964B;
+  float: left;
+}
+.footer {
+  width: 590px;
+  height: 80px;
+  background-color: #F4D35E;
+  float: left;
+}
+.blog {
+  width: 600px;
+  display: flow-root;
+  margin: 50px auto;
+}
+.blogheader {
+  width: 600px;
+  height: 80px;
+  margin: 0 0 20px 0;
+  background-color: #F4D35E;
+  float: left;
+}
+.blogcontent {
+  width: 480px;
+  height: 380px;
+  background-color: tomato;
+  margin: 0 0 10px 0;
+  float: left;
+}
+.blogrightbox {
+  width: 110px;
+  height: 170px;
+  background-color: #28AFB0;
+  margin: 0 0 0 10px;
+  float: left;
+}
+.blogfooter {
+  width: 480px;
+  height: 30px;
+  background-color: #EE964B;
+  margin: 0 0 60px 0;
+  float: left;
+}
